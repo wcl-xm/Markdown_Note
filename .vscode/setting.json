@@ -1,0 +1,7 @@
+{
+    "editor.insertSpaces": false,
+    "editor.wrappingColumn": 0,
+    "editor.quickSuggestions": false,
+    "pandoc.htmlOptString": "-s -f gfm -t html5 --css=css/style.css",
+    "pandoc.pdfOptString": "--latex-engine=lualatex -V documentclass=ltjarticle -V geometry:a4paper -V geometry:margin=2.5cm -V geometry:nohead"
+}
